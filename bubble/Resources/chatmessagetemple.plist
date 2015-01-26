@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sendtype</key>
+		<integer>1</integer>
+		<key>messagecontent</key>
+		<string>Hi,</string>
+	</dict>
+	<dict>
+		<key>sendtype</key>
+		<integer>1</integer>
+		<key>messagecontent</key>
+		<string>you online?</string>
+	</dict>
+	<dict>
+		<key>sendtype</key>
+		<integer>1</integer>
+		<key>messagecontent</key>
+		<string>Dailing, you online?, give me a replay....</string>
+	</dict>
+	<dict>
+		<key>sendtype</key>
+		<integer>1</integer>
+		<key>messagecontent</key>
+		<string>Oh, Titanic is sinking now, Jump into sea right now.</string>
+	</dict>
+</array>
+</plist>

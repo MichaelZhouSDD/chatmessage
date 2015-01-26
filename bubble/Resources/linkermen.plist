@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>userid</key>
+		<string>10001</string>
+		<key>name</key>
+		<string>Sdd</string>
+		<key>headfilename</key>
+		<string>s1.jpg</string>
+		<key>ismale</key>
+		<false/>
+		<key>des</key>
+		<string>beautiful girl!</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10002</string>
+		<key>name</key>
+		<string>Jason</string>
+		<key>headfilename</key>
+		<string>s2.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>Hello, Jason now.</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10003</string>
+		<key>name</key>
+		<string>Steven</string>
+		<key>headfilename</key>
+		<string>s3.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>Hong Kong say Hello</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10004</string>
+		<key>name</key>
+		<string>Sarah</string>
+		<key>headfilename</key>
+		<string>s4.jpg</string>
+		<key>ismale</key>
+		<false/>
+		<key>des</key>
+		<string>USA say Hello</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10005</string>
+		<key>name</key>
+		<string>HuranmdngdH</string>
+		<key>headfilename</key>
+		<string>s5.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>HollLand Say Hello</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10006</string>
+		<key>name</key>
+		<string>DuchMan</string>
+		<key>headfilename</key>
+		<string>s6.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>Germany say Hello</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10007</string>
+		<key>name</key>
+		<string>Thomas</string>
+		<key>headfilename</key>
+		<string>s7.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>Computer graphic </string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10008</string>
+		<key>name</key>
+		<string>Akenin</string>
+		<key>headfilename</key>
+		<string>s8.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>Outstanding Computer Programmer</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10009</string>
+		<key>name</key>
+		<string>Linkin</string>
+		<key>headfilename</key>
+		<string>s9.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>In Prison</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10010</string>
+		<key>name</key>
+		<string>Jack</string>
+		<key>headfilename</key>
+		<string>s10.jpg</string>
+		<key>ismale</key>
+		<true/>
+		<key>des</key>
+		<string>Titanic is sinking</string>
+	</dict>
+	<dict>
+		<key>userid</key>
+		<string>10011</string>
+		<key>name</key>
+		<string>Rose</string>
+		<key>headfilename</key>
+		<string>s11.jpg</string>
+		<key>ismale</key>
+		<false/>
+		<key>des</key>
+		<string>GoodBye, my Jack</string>
+	</dict>
+</array>
+</plist>
